@@ -1,5 +1,5 @@
 let multiply = function (a, b) {
-    console.log(a * b); // a * b
+    console.log(a * b); 
 }
 
 let multiplyByTwo = multiply.bind(this, 2)
